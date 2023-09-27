@@ -18,7 +18,7 @@ In this program, I wrote a Hello World first-time Python program in VS code with
 
 <p align="center">
 
- [Project 1]()
+ [Project 1](https://github.com/CyberJ03/HelloWorld/blob/main/HelloToYou.py)
 
 </p>
 
