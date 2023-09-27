@@ -14,11 +14,11 @@ In this program, I wrote a Hello World first-time Python program in VS code with
 
 - <b>Windows 11</b>
 
-<h2>Program walk-through:</h2>
+<h2>Program Linked Below:</h2>
 
 <p align="center">
 
- Under Maintenance 
+ Project 1
 
 </p>
 
